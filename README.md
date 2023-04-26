@@ -6,7 +6,7 @@
 
 The task is to make a sales forecast for numerous product families that are sold at Favorita stores in Ecuador. The data used for training the model contains information such as dates, store and product details, promotion status, and sales figures.
 ## EDA
-![Store Sale Summary](output\\figures\\store_sales_summary.png)
+![Store Sale Summary](output/figures/store_sales_summary.png)
 
 The dataset is about store sales forecasting where contaning 54 stores, having 33 family of products and 3 years of data in Ecuador
 
